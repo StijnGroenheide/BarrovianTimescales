@@ -1,0 +1,4 @@
+#Gitignore: Guided Research/Publicatie Barrovian Metamorphism. 
+
+#Ignoring datatypes general:
+*.txt
