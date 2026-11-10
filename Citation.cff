@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Barrovian metamorphism signals syn-orogenic delamination"
+version: 1.0.0 
+date-released: 2026-11-10
+authors:
+  - family-names: "Groenheide"
+    given-names: "Stijn J.F."
+    affiliation: "Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands"
+  - family-names: "Thieulot"
+    given-names: "Cedric"
+    affiliation: "Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands"
+  - family-names: "Guilmette"
+    given-names: "Carl"
+    affiliation: "Département de Géologie et de Génie Géologique, Université Laval, Québec, QC, Canada"
+  - family-names: "Lamont"
+    given-names: "Thomas N."
+    affiliation: "Department of Geoscience, University of Nevada, Las Vegas, NV, USA"
+  - family-names: "Kotowski"
+    given-names: "Alissa J."
+    affiliation: "Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands"
+  - family-names: "van Hinsbergen"
+    given-names: "Douwe J.J."
+    affiliation: "Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands"
+    email: "d.j.j.vanhinsbergen@uu.nl"
+license: MIT
+repository-code: "https://github.com/StijnGroenheide/BarrovianTimescales"
