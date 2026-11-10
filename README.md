@@ -14,8 +14,10 @@ HF_LAB_Rob: Using Robin boundary conditions as a contact between the crust (Moho
 
 Plotting:
 Exp1_2_BC_comparison: This code uses the data of all boundary conditions to plot them for a given temperature allowing for comparison (in our case at a Moho T of 700 ◦C ).
-HF_T_t: This code compares different heating windows for a fixed moho-mantle temperature combination (in our case 700-1300 ◦C ). It plots both the Heat flux (calculated from the temperatures) and temperature against time. 
+
+HF_T_t: This code compares different heating windows for a fixed moho-mantle temperature combination (in our case 700-1300 ◦C ). It plots both the Heat flux (calculated from the temperatures) and temperature against time.
+
 Conclusion_plot: This plot uses our data from exp 2 and 4 to be able to compare processes. It plots the end-member temperature-time profiles at our location of interest. 
 
-**Background**
+**Background:**
 The codes used for this paper consist in two categories: Modelling and Plotting. All Modelling codes use the same structure. For the different Boundary Conditions in experiment 1 and 2 we have different codes, varying only in BC's. Exp 3 and 4 boundary conditions were still a fixed temperature at the base as a remnant of a first starting code. For Experiment 3 and 4 we used HF_LAB_Rob where we uses a Robin boundary condition together with a growing half-spacce thermal boundary condition to model direct asthenossphere contact with a new growing mantle litosphere. Visualisation was either done within the model code or with seperate codes. 
